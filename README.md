@@ -3,4 +3,4 @@
 <br></br>
 
 ### Github readme.md insert images || 2020-01-10 (learned forgot and re-learn)
-#### 使用 (![func](url))    url can copy from the file image url
+#### 使用 !+[func]+(url)    url can copy from the file image url
